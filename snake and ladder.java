@@ -1,18 +1,10 @@
-package com.codepumpkin.boardGames;
+package snake and ladder;
 
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Random;
 import java.util.Scanner;
-
-/**
-  * You can read more about Snakes n Ladders Java Program Implementation at 
-  * http://codepumpkin.com/snakes-n-ladders/
-  * 
-  * @author codepumpkin.com 
-  *
-  */
 
 public class SnakeNLadderTest {
 
